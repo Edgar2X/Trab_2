@@ -15,6 +15,8 @@ public class Main {
         
         aluno1.passou(); 
         
+        disc.add_alu();
+        disc.media_notas();
         disc.entrada();
      }
 }
