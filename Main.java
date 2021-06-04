@@ -13,7 +13,9 @@ public class Main {
 
         aluno1.retornaMedia();
         
-        aluno1.passou();            
+        aluno1.passou(); 
+        
+        disc.entrada();
      }
 }
  
